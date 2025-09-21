@@ -87,8 +87,19 @@ I embed security into every stage of the development lifecycle, from infrastruct
 
 <div align="center">
 
-[![DevSecOps Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=securedbyfajobi&repo=devsecops-toolkit&theme=tokyonight)](https://github.com/securedbyfajobi/devsecops-toolkit)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=securedbyfajobi&repo=portfolio&theme=tokyonight)](https://github.com/securedbyfajobi/portfolio)
+### [🛡️ DevSecOps Toolkit](https://github.com/securedbyfajobi/devsecops-toolkit)
+**Production-ready security automation scripts and configurations for cloud-native environments**
+- AWS Security Hub, GuardDuty, Inspector automation
+- Kubernetes RBAC, Pod Security Standards, Network Policies
+- CI/CD SAST/DAST integration templates
+- ISO 27001, GDPR compliance validation scripts
+
+### [🌐 Professional Portfolio](https://github.com/securedbyfajobi/portfolio)
+**Modern Next.js portfolio showcasing DevSecOps expertise and cloud security projects**
+- Built with Next.js, TypeScript, and Tailwind CSS
+- AWS Amplify deployment with GitLab CI/CD
+- Functional contact form with AWS SES integration
+- Interactive Credly certification badges
 
 </div>
 
