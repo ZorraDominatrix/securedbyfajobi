@@ -94,13 +94,13 @@ I embed security into every stage of the development lifecycle, from infrastruct
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=securedbyfajobi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+*Building secure, scalable solutions with 7+ years of DevSecOps expertise*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=securedbyfajobi&layout=compact&theme=tokyonight&hide_border=true)
+**⭐ Key Technologies:** AWS Security • Kubernetes • Terraform • Python • CI/CD Automation
 
 </div>
 
